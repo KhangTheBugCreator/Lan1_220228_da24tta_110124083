@@ -5,7 +5,7 @@
 */
 #include <stdio.h>
 #include <math.h>
-#include <stdlib.h>
+
 int demsongaydathoacvuotmuctieu(float a[], int n, float x);
 int demsongaykhongdatmuctieu(float a[], int n, float x);
 float sogiohocnhieunhat(float a[], int n), sogiohocitnhat(float a[], int n);
