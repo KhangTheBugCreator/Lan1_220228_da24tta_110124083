@@ -3,7 +3,6 @@
 -Ho ten: Nguyen Minh Khang
 -lop: DA24TTA
 */
-#define ll long long
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
